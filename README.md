@@ -4,4 +4,15 @@
 
 ##### Throughout my career, I've worked on a variety of projects, ranging from small applications to large-scale web applications. I have experience in designing and implementing RESTful APIs, creating responsive and interactive user interfaces with React, and integrating front-end components with back-end services using Node.js and Express.
 
-### Open source server.
+## Contact US
+
+- feel free to connect @syedhasnainmehadi@cedcommerce.com
+
+## Authors
+
+- [Syed Hasnain Mehadi](https://github.com/hasnain-cedcoss)
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/syed-hasnain-mehadi-b94971188/)
+
