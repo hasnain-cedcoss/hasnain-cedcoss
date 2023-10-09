@@ -7,7 +7,7 @@
 ## Contact US
 
 #### 🔗 EMAIL
-@syedhasnainmehadi@cedcommerce.com
+syedhasnainmehadi@cedcommerce.com
 
 #### 🔗 Links
 
