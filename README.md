@@ -6,13 +6,10 @@
 
 ## Contact US
 
-- feel free to connect @syedhasnainmehadi@cedcommerce.com
+#### 🔗 EMAIL
+@syedhasnainmehadi@cedcommerce.com
 
-## Authors
-
-- [Syed Hasnain Mehadi](https://github.com/hasnain-cedcoss)
-
-## 🔗 Links
+#### 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/syed-hasnain-mehadi-b94971188/)
 
